@@ -1,5 +1,5 @@
 # Chucks-Game-Hand-Cricket-
-Simple Java Code for a popular game.
+Java Code for a popular game.
 import java.util.*;
 class ChucksCric//for ten wickets and upto 20 overs
 {
